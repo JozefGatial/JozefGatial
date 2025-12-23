@@ -7,7 +7,7 @@
 
 ## Kontakt:
 - ✉️ email: jojogatial@gmail.com
-- 💼 LinkedIn: [Tvoje meno](https://www.linkedin.com/in/jojogatial)
+- 💼 LinkedIn: [Jozef Gatial](https://www.linkedin.com/in/jozef-gatial-9347463a1)
 
 Projekty:
 - Projekt A — https://woodsteel.sk/
