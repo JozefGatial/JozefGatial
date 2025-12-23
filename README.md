@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ahoj, som Jozef 👋
 
-<!--
-**JozefGatial/JozefGatial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Som softvérový vývojár / nadšenec do open-source. Zaujímam sa o:
+- programovanie v (napr.) Python, JavaScript
+- CRM - https://woodsteel.sk/
+- vývoj webových aplikácií
 
-Here are some ideas to get you started:
+## Kontakt:
+- ✉️ email: jojogatial@gmail.com
+- 💼 LinkedIn: [Tvoje meno](https://www.linkedin.com/in/tvojprofil)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projekty:
+- Projekt A — https://woodsteel.sk/
+- Projekt B — krátky popis  - vo vystavbe
+
+Ďakujem za návštevu! 🚀
