@@ -1,6 +1,6 @@
 # Ahoj, som Jozef 👋
 
-## Som digitálny vývojár / nadšenec. Zaujímam sa o:
+## Som digitálny manager / nadšenec. Zaujímam sa o:
 - Wordpress, weby / E-shopy
 - CRM - https://woodsteel.sk/
 - vývoj webových aplikácií
