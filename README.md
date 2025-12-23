@@ -1,13 +1,13 @@
 # Ahoj, som Jozef 👋
 
-## Som softvérový vývojár / nadšenec do open-source. Zaujímam sa o:
-- programovanie v (napr.) Python, JavaScript
+## Som digitálny vývojár / nadšenec. Zaujímam sa o:
+- Wordpress, weby / E-shopy
 - CRM - https://woodsteel.sk/
 - vývoj webových aplikácií
 
 ## Kontakt:
 - ✉️ email: jojogatial@gmail.com
-- 💼 LinkedIn: [Tvoje meno](https://www.linkedin.com/in/tvojprofil)
+- 💼 LinkedIn: [Tvoje meno](https://www.linkedin.com/in/jojogatial)
 
 Projekty:
 - Projekt A — https://woodsteel.sk/
