@@ -11,6 +11,6 @@
 
 Projekty:
 - Projekt A — https://woodsteel.sk/
-- Projekt B — krátky popis  - vo vystavbe
+- Projekt B — vo vystavbe
 
 Ďakujem za návštevu! 🚀
